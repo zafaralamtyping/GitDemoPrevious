@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25150" started-at="2021-08-06T10:28:43 GST" finished-at="2021-08-06T10:29:08 GST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@384ad17b]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="HomePageTest" duration-ms="25150" started-at="2021-08-06T10:28:43 GST" finished-at="2021-08-06T10:29:08 GST">
+      <class name="cucumberOptions.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberOptions.TestRunner@384ad17b]" name="setUpClass" is-config="true" duration-ms="187" started-at="2021-08-06T10:28:43 GST" finished-at="2021-08-06T10:28:43 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@384ad17b]" name="feature" duration-ms="24695" started-at="2021-08-06T10:28:43 GST" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-08-06T10:29:08 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login into Application]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunner@384ad17b]" name="tearDownClass" is-config="true" duration-ms="161" started-at="2021-08-06T10:29:08 GST" finished-at="2021-08-06T10:29:08 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunner -->
+    </test> <!-- HomePageTest -->
+  </suite> <!-- Suite -->
+</testng-results>

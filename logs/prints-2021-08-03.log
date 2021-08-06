@@ -1,0 +1,6 @@
+22:25:43.968 [TestNG-tests-1] INFO  resources.Base - userName, Password and login click from HomePageTest
+22:25:46.114 [TestNG-tests-1] INFO  resources.Base - opened url from HomePageTest
+22:25:46.640 [TestNG-tests-1] INFO  resources.Base - clicked Login from HomePageTest
+22:25:47.017 [TestNG-tests-1] INFO  resources.Base - userName, Password and login click from HomePageTest
+22:25:48.818 [TestNG-tests-1] INFO  resources.Base - opened url from HomePageTest
+22:25:49.391 [TestNG-tests-1] INFO  resources.Base - clicked Login from HomePageTest
